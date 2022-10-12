@@ -26,7 +26,9 @@ Initialize the views and the adapter
 - Add the adapter to the recycler view
 - Add data to recycler view  by adding cards . first  add the layour manager to the recycler view
 - format the cards for even distribution and spacing 
-- add the card click listener inside the view holder class in the adapter
+- add the card click listener inside the view holder class in the adapter and add tag to it
+- to add dynamic number of cards and images 
+- Create enum class for 
 
 
 
